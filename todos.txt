@@ -2,4 +2,7 @@ The todo list was too long
 Is everything working well
 it appears so
 it appears soand does it still complete?
-One more for commit
+I think so
+The block was in the wrong location initially
+complete and add are working
+they are working perfectly
